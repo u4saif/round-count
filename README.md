@@ -17,6 +17,7 @@ yarn add round-count
 ```
 
 ## Demo
+![](https://github.com/u4saif/round-count/blob/0a80f8a4c17457501da05ccef98f4a74d979627b/sample.gif)
 
 You can view a live demo of the `round-count` component [here](https://codesandbox.io/p/sandbox/magical-fast-mlxh22).
 
