@@ -1,0 +1,30 @@
+{
+  "name": "round-count",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./round-count.umd.cjs",
+  "module": "./round-count.js",
+  "files": [
+    "round-count.js",
+    "round-count.umd.cjs",
+    "round-count.css"
+  ],
+  "keywords": [
+    "react",
+    "typescript",
+    "countdown",
+    "component"
+  ],
+  "description": "Light weight countdown component for react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u4saif/round-count"
+  },
+  "author": "Shaikh Saifuddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u4saif/round-count/issues"
+  },
+  "homepage": "https://github.com/u4saif/round-count#readme"
+}
